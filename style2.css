@@ -359,3 +359,28 @@
   width: 1px;
   background-color: rgba(0,47,52,.2);;
 }
+
+#footer ul,li,a,h6{
+
+  list-style: none !important;
+  list-style-type: none !important;
+  text-decoration: none !important;
+  color: #000000;
+
+
+}
+
+#footer {
+
+  background-color: #ebeeef;
+  border-top: 1px solid rgba(0,47,52,.2);
+
+}
+
+#credits{
+
+  background-color: #002f34;
+  color: #ffffff;
+  height: 60px;
+
+}
