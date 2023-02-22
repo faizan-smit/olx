@@ -360,7 +360,7 @@
   background-color: rgba(0,47,52,.2);;
 }
 
-#footer ul, li, a, h6{
+#footer ul, li, a{
 
   list-style: none !important;
   list-style-type: none !important;
@@ -405,4 +405,23 @@
 
   margin-bottom: 30px;
 
+}
+
+.footerlink{
+  font-size: 12px;
+  /* color: rgba(0,47,52,.64); */
+  color: #557477 !important;
+}
+.footerlink:hover{
+  color: #002f34 !important;
+}
+
+.footerlinkhead{
+  color: #000;
+  font-size: 14px;
+  /* font-weight: bold !important; */
+}
+
+.text-uppercase{
+  text-transform: uppercase !important;
 }
