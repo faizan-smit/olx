@@ -304,7 +304,7 @@
 
 #for-innernavbar{
   box-shadow:  rgba(0, 0, 0, 0.2) 0px 1px 4px 0px ;
-  height: 50px;
+  height: 60px;
   overflow: hidden;
 }
 
@@ -360,7 +360,7 @@
   background-color: rgba(0,47,52,.2);;
 }
 
-#footer ul,li,a,h6{
+#footer ul, li, a, h6{
 
   list-style: none !important;
   list-style-type: none !important;
@@ -380,7 +380,7 @@
 #credits{
 
   background-color: #002f34;
-  color: #ffffff;
+  color: #ffffff !important;
   height: 60px;
 
 }
