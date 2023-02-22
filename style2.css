@@ -384,3 +384,14 @@
   height: 60px;
 
 }
+
+#navbottom div{
+  margin-right: 15px;
+}
+
+.login-text{
+  color: #012f34;
+  text-decoration: underline;
+  font-size: 18px;
+  font-weight: bold;
+}
