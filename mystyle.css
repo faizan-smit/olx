@@ -194,7 +194,7 @@
 
 }
 
-#ad-carousel{
+#ad-carousel-1{
 
     margin-top: 20px;
     margin-bottom: 20px;
@@ -419,4 +419,8 @@
     border: none !important;
     box-shadow:  rgba(0, 0, 0, 0.2) 0px 4px 4px 0px ;
 
+}
+
+#main-body{
+    margin-top: 30px !important;
 }
