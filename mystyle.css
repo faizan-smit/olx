@@ -409,7 +409,7 @@
 
 }
 
-#back-to-top>button{
+#back-to-top>a>button{
 
     width: 140px;
     height: 50px;
